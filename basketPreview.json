@@ -1,1 +1,22 @@
-
+{
+  "totalAmount": 530,
+  "quantity": 2,
+  "contents": [
+  
+  {
+    "id_product": 3,
+    "title": "Boots",
+    "price": 280,
+    "img": "img/boots.jpeg",
+    "quantity": 1
+  },
+  {
+    "id_product": 2,
+    "title": "Coat",
+    "price": 250,
+    "img": "img/coat.jpeg",
+    "quantity": 1
+  }
+ ]
+}
+  
