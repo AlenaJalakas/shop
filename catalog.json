@@ -5,19 +5,19 @@
     "title": "Shirt",
     "price": 90,
     "img": "img/shirt.jpeg"
-  }.
+  },
   {
     "id_product": 2,
     "title": "Dress",
     "price": 150,
     "img": "img/dress.jpeg"
-  }
+  },
   {
     "id_product": 3,
     "title": "Boots",
     "price": 280,
     "img": "img/boots.jpeg"
-  }
+  },
   {
     "id_product": 2,
     "title": "Coat",
