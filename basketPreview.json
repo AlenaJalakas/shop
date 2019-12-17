@@ -4,14 +4,14 @@
   "contents": [
   
   {
-    "id_product": 3,
+    "id": 3,
     "title": "Boots",
     "price": 280,
     "img": "img/boots.jpeg",
     "quantity": 1
   },
   {
-    "id_product": 2,
+    "id": 2,
     "title": "Coat",
     "price": 250,
     "img": "img/coat.jpeg",
